@@ -1,3 +1,5 @@
+# This is part of coding in data_engineering_zoom_camp on datatalks...
+
 terraform {
   required_providers {
     google = {
