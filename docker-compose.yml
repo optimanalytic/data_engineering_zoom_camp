@@ -1,3 +1,6 @@
+# This is part of coding in data_engineering_zoom_camp on datatalks...
+
+
 services:
   db:
     container_name: postgres
